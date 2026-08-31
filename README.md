@@ -1,4 +1,4 @@
-# Three-Phase Inverter and PMSM Motor Simulation
+# Three-Phase Inverter and PMSM/BLDC Motor Simulation
 
 This project explores the design and simulation of a three-phase inverter for driving a permanent-magnet motor system. The electrical inverter was developed and analysed in LTspice, while ANSYS Maxwell was used to model the electromagnetic behaviour of the motor load. I did this project as part of my academic studies alongside one of my friends.
 
